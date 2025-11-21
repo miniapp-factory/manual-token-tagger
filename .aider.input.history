@@ -1,0 +1,58 @@
+
+# 2025-11-21 18:50:59.546984
++Code the following app
++```
++Title: Manual Token Tagger
++
++Description:
++Create a simple app where users can manually tag tokens with custom labels. The app should work completely offline, with no external data sources or APIs. All information is entered and managed manually by the user.
++
++Functionality:
++ • Show two input fields:
++ 1. “Token Name”
++ 2. “Tag”
++ • Add a button labeled “Add Tag”. When clicked, it adds the token and its tag to a visible list.
++ • Display the list in a section titled “Tagged Tokens”, where each entry shows:
++ • Token Name
++ • Assigned Tag
++ • Each list item should have a “Delete” button to remove it individually.
++ • Include a “Clear All” button to remove all tagged tokens at once.
++ • If either input field is empty, show a message:
++“Please fill in both fields.”
++
++UI Requirements:
++ • Use only simple UI elements: text fields, labels, buttons, and a list.
++ • Keep the layout minimal and clear.
++ • All actions (add, delete, clear) must update the list instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 18:50:59.636286
++Code the following app
++```
++Title: Manual Token Tagger
++
++Description:
++Create a simple app where users can manually tag tokens with custom labels. The app should work completely offline, with no external data sources or APIs. All information is entered and managed manually by the user.
++
++Functionality:
++ • Show two input fields:
++ 1. “Token Name”
++ 2. “Tag”
++ • Add a button labeled “Add Tag”. When clicked, it adds the token and its tag to a visible list.
++ • Display the list in a section titled “Tagged Tokens”, where each entry shows:
++ • Token Name
++ • Assigned Tag
++ • Each list item should have a “Delete” button to remove it individually.
++ • Include a “Clear All” button to remove all tagged tokens at once.
++ • If either input field is empty, show a message:
++“Please fill in both fields.”
++
++UI Requirements:
++ • Use only simple UI elements: text fields, labels, buttons, and a list.
++ • Keep the layout minimal and clear.
++ • All actions (add, delete, clear) must update the list instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
